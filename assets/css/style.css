@@ -67,7 +67,7 @@
         font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
         color: #FCFAF9;
         background-color: rgba(57, 54, 53, .8);
-        padding: 20px 0 20px 0;
+        padding: 20px 20px 20px 20px;
         
     }
 
@@ -81,7 +81,7 @@
     .aboutMe contact {
         width: 635px;
         margin: 0px 20px;
-        padding: 0px 20px;
+        padding: 20px 20px;
     }
 
 
@@ -111,7 +111,7 @@
         position: inherit;
         width: 10.7%;
         object-fit: cover;
-        margin: 0px 74px;
+        margin: 0px 69px;
         padding: 20px 0px 0px 0px;
     }
     
